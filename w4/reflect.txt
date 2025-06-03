@@ -1,0 +1,1 @@
+Tester 3 was a great learning experience in managing workflows with Workstation and LineManager. It helped me understand order processing and connecting stations while working with global queues. This phase tied everything together, making the assembly line simulation feel complete and functional.
